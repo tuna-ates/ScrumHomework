@@ -1,0 +1,17 @@
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\bin\Debug\Odev.exe.config
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\bin\Debug\Odev.exe
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\bin\Debug\Odev.pdb
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.csprojAssemblyReference.cache
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.Form1.resources
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.Properties.Resources.resources
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.csproj.GenerateResource.cache
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.exe
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.pdb
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.Satici.resources
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.Admin.resources
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.Alici.resources
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.Admin2.resources
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.Borsa.resources
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.SubForm.resources
+C:\Users\Alperen\source\repos\CSharpCourse\Odev\obj\Debug\Odev.Sonuc.resources
